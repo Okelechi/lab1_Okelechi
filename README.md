@@ -44,5 +44,8 @@ The project was built to practice core programming concepts such as loops, condi
 ### Run Python Program
 Make sure Python is installed, then run:
 
-   bash
+   ### Run Python Program
+Make sure Python is installed, then run:
+
+```bash
 python data-detective.py
